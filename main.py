@@ -6,7 +6,7 @@ import time
 WAREHOUSE_WIDTH = 10
 WAREHOUSE_HEIGHT = 10
 CELL_SIZE = 50  # Size of each cell in pixels
-DESTINATION = (7, 9)  # Updated destination according to your prompt
+DESTINATION = (6, 1)  # Updated destination according to your prompt
 
 class Robot:
     def __init__(self, canvas, robot_id, start_position):
